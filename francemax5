@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+
+http://stream.ultimate-tvservice.com:8080/live/curtb2/boyk8/86945.m3u8
